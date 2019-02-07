@@ -23,6 +23,7 @@
   <div class="jumbotron">
    <fieldset>
     <legend>ブックマークデータ</legend>
+    <label><a href="list.php">一覧を見る</a></label><br>
      <label>書籍名：<input type="text" name="title"></label><br>
      <label>書籍URL：<input type="text" name="bookurl"></label><br>
      <label>書籍コメント：<textArea name="comment" rows="4" cols="40"></textArea></label><br>
